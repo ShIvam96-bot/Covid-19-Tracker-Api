@@ -1,4 +1,4 @@
-import React from 'react';
+{/*import React from 'react';
 import "./Map.css";
 import {MapContainer as LeafletMap, TileLayer} from "react-leaflet";
 import {showDataMap} from "./util.js";
@@ -18,3 +18,4 @@ function Map({countries, casesType, center,zoom}) {
 }
 
 export default Map
+*/}
